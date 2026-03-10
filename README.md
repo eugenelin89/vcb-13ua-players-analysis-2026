@@ -11,15 +11,6 @@ Primary deliverables:
 - [vcb_13u_draft_infographic_report.pdf](/Users/eugenelin/dev/vcb13u/vcb_13u_draft_infographic_report.pdf)
 - [suggested_balanced_7_teams.csv](/Users/eugenelin/dev/vcb13u/suggested_balanced_7_teams.csv)
 
-## Important Correction
-
-The workbook uses higher numbers as better on the coach-entered 1-to-5 and 1-to-3 grading scales. An earlier pass had this direction reversed. The current outputs in this repo are corrected.
-
-Example sanity check:
-
-- Tristan Edmunds now grades near the bottom of the board, which matches the workbook values much better.
-- The corrected top of the board is driven by players with strong coach-sheet scores plus strong raw data support.
-
 ## Workbook Structure
 
 - 4 sheets total
