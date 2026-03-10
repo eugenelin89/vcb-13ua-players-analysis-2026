@@ -16,23 +16,23 @@ The four players missing pitching-specific data are: Bo Singerman, Elliott Cocke
 - Left pitching fields blank for players without pitching data instead of imputing scouting value.
 
 ## Top Overall Players
-Basim Azou, Tristan Edmunds, Daxton Stutters, Kyle Foster, Levi Milnes, Easton Ferris, Stefan Jerinic, Peyton Lee, Caleb Huh, Ryder Everingham
+Charles Love, George Morris, Sean Choi, Arek Aubuchon, Brody Pendergast, Milan Avinashi, Carter Fong, Mylo Mclaughlin, Ashton Chang, Arlo Tourigny
 
 ## Top Pitchers
-River Yonge, Jonathan Bick, Bowie Scott, Kyle Foster, Ryder Everingham, Dylan Bobko, Arun Soni, Basim Azou
+Arek Aubuchon, Sean Choi, Mylo Mclaughlin, Brody Pendergast, Nolan Whitfield, Charles Love, George Morris, Robbie Mcmynn
 
 ## Balanced Players
-Jack Cheyne, Bowie Scott, Philip Dawe, Hayden Gudewill, Henry Galer, Douglas Ritchie, Felix Vandenenden, Bo Singerman
+Jack Cheyne, Hayden Gudewill, Bowie Scott, Henry Galer, Felix Vandenenden, Bo Singerman, Oliver Lewis, Liam Pearce
 
 ## Hidden-Value Players
-Arlo Tourigny, Hudson Archambault, Bo Singerman, Tristan Yang-Skirko, Ari Edgar, Arek Aubuchon, Liam Redden, Charles Love
+Oliver Lewis, Armann Freimanis, River Yonge, Dylan Bansback, Shael Singerman, Gray Dickson, Francis De La Cruz, Mylo Mclaughlin
 
 ## Tier Structure
 tier
-Tier 1 - Impact Players          7
-Tier 2 - Strong Starters        20
-Tier 3 - Solid Contributors     27
-Tier 4 - Development Players    23
+Tier 1 - Impact Players         10
+Tier 2 - Strong Starters        17
+Tier 3 - Solid Contributors     37
+Tier 4 - Development Players    13
 
 ## Draft Observations
 - Overall board blends raw athletic/hitting/fielding data with published overall ranking data.
@@ -40,10 +40,10 @@ Tier 4 - Development Players    23
 - Balanced-player model pushes up players with fewer weak spots, while the upside model rewards high-end tools or standout pitching value.
 
 ## Simulated Draft Results
-- Best-available simulation average team strength: 560.2
-- Balanced-team simulation average team strength: 560.4
-- Best-available spread (max-min): 32.0
-- Balanced-team spread (max-min): 22.4
+- Best-available simulation average team strength: 517.9
+- Balanced-team simulation average team strength: 517.9
+- Best-available spread (max-min): 17.2
+- Balanced-team spread (max-min): 19.6
 
 ## Team Balance Observations
 - Balanced-team simulation narrows gaps by steering pitching and all-around value toward weaker roster builds.

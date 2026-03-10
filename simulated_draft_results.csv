@@ -1,145 +1,145 @@
 Round,Pick,Team,Player Name,Strategy,Reason
-1,1,1,Basim Azou,best_available,Highest draft board rank available
-1,2,2,Tristan Edmunds,best_available,Highest draft board rank available
-1,3,3,Daxton Stutters,best_available,Highest draft board rank available
-1,4,4,Kyle Foster,best_available,Highest draft board rank available
-1,5,5,Levi Milnes,best_available,Highest draft board rank available
-1,6,6,Easton Ferris,best_available,Highest draft board rank available
-2,7,6,Stefan Jerinic,best_available,Highest draft board rank available
-2,8,5,Peyton Lee,best_available,Highest draft board rank available
-2,9,4,Caleb Huh,best_available,Highest draft board rank available
-2,10,3,Ryder Everingham,best_available,Highest draft board rank available
-2,11,2,Andrew Macmillan,best_available,Highest draft board rank available
-2,12,1,Emerick Johnson,best_available,Highest draft board rank available
-3,13,1,Hank Miller,best_available,Highest draft board rank available
-3,14,2,Dylan Bobko,best_available,Highest draft board rank available
-3,15,3,Angus Rohee,best_available,Highest draft board rank available
-3,16,4,Arun Soni,best_available,Highest draft board rank available
-3,17,5,Jonathan Bick,best_available,Highest draft board rank available
-3,18,6,Armann Freimanis,best_available,Highest draft board rank available
-4,19,6,Gray Dickson,best_available,Highest draft board rank available
-4,20,5,Shael Singerman,best_available,Highest draft board rank available
-4,21,4,Dylan Armstrong,best_available,Highest draft board rank available
-4,22,3,Liam Fagan,best_available,Highest draft board rank available
-4,23,2,Reegan Plummer,best_available,Highest draft board rank available
-4,24,1,Nam Phan,best_available,Highest draft board rank available
-5,25,1,Gyuin Lee,best_available,Highest draft board rank available
-5,26,2,River Yonge,best_available,Highest draft board rank available
-5,27,3,Andre Morin,best_available,Highest draft board rank available
-5,28,4,"Frederick ""Freddy"" Pragnell",best_available,Highest draft board rank available
-5,29,5,Lawrance Zhau,best_available,Highest draft board rank available
-5,30,6,Ethan Grange,best_available,Highest draft board rank available
-6,31,6,Oliver Lewis,best_available,Highest draft board rank available
-6,32,5,Douglas Ritchie,best_available,Highest draft board rank available
-6,33,4,Orev Koblentz,best_available,Highest draft board rank available
-6,34,3,Sebastian Yang-Skirko,best_available,Highest draft board rank available
-6,35,2,Liam Pearce,best_available,Highest draft board rank available
-6,36,1,Logan Ng,best_available,Highest draft board rank available
-7,37,1,Felix Vandenenden,best_available,Highest draft board rank available
+1,1,1,Charles Love,best_available,Highest draft board rank available
+1,2,2,George Morris,best_available,Highest draft board rank available
+1,3,3,Sean Choi,best_available,Highest draft board rank available
+1,4,4,Arek Aubuchon,best_available,Highest draft board rank available
+1,5,5,Brody Pendergast,best_available,Highest draft board rank available
+1,6,6,Milan Avinashi,best_available,Highest draft board rank available
+2,7,6,Carter Fong,best_available,Highest draft board rank available
+2,8,5,Mylo Mclaughlin,best_available,Highest draft board rank available
+2,9,4,Ashton Chang,best_available,Highest draft board rank available
+2,10,3,Arlo Tourigny,best_available,Highest draft board rank available
+2,11,2,Nolan Whitfield,best_available,Highest draft board rank available
+2,12,1,Elliott Cocke,best_available,Highest draft board rank available
+3,13,1,Davis Hunt,best_available,Highest draft board rank available
+3,14,2,Bo Singerman,best_available,Highest draft board rank available
+3,15,3,Kian Sasani,best_available,Highest draft board rank available
+3,16,4,Hudson Archambault,best_available,Highest draft board rank available
+3,17,5,Hudson Farrar,best_available,Highest draft board rank available
+3,18,6,Reuben Samet,best_available,Highest draft board rank available
+4,19,6,Ari Mclaughlin,best_available,Highest draft board rank available
+4,20,5,Tristan Yang-Skirko,best_available,Highest draft board rank available
+4,21,4,Felix Gladstone,best_available,Highest draft board rank available
+4,22,3,Luca Di Nozzi,best_available,Highest draft board rank available
+4,23,2,Hayden Gudewill,best_available,Highest draft board rank available
+4,24,1,Francis De La Cruz,best_available,Highest draft board rank available
+5,25,1,Matthew Mahead,best_available,Highest draft board rank available
+5,26,2,Ari Edgar,best_available,Highest draft board rank available
+5,27,3,Robbie Mcmynn,best_available,Highest draft board rank available
+5,28,4,Jack Cheyne,best_available,Highest draft board rank available
+5,29,5,Michelle Morrison,best_available,Highest draft board rank available
+5,30,6,Oran Lavigne,best_available,Highest draft board rank available
+6,31,6,Sasha Zvijerac,best_available,Highest draft board rank available
+6,32,5,Philip Dawe,best_available,Highest draft board rank available
+6,33,4,Bowie Scott,best_available,Highest draft board rank available
+6,34,3,Quinn Mclelan,best_available,Highest draft board rank available
+6,35,2,Donovan Hayes,best_available,Highest draft board rank available
+6,36,1,Liam Redden,best_available,Highest draft board rank available
+7,37,1,Orev Koblentz,best_available,Highest draft board rank available
 7,38,2,Henry Brown,best_available,Highest draft board rank available
 7,39,3,Henry Galer,best_available,Highest draft board rank available
-7,40,4,Liam Redden,best_available,Highest draft board rank available
-7,41,5,Dylan Bansback,best_available,Highest draft board rank available
-7,42,6,Bowie Scott,best_available,Highest draft board rank available
-8,43,6,Oran Lavigne,best_available,Highest draft board rank available
-8,44,5,Donovan Hayes,best_available,Highest draft board rank available
-8,45,4,Quinn Mclelan,best_available,Highest draft board rank available
-8,46,3,Michelle Morrison,best_available,Highest draft board rank available
-8,47,2,Philip Dawe,best_available,Highest draft board rank available
-8,48,1,Sasha Zvijerac,best_available,Highest draft board rank available
-9,49,1,Jack Cheyne,best_available,Highest draft board rank available
-9,50,2,Robbie Mcmynn,best_available,Highest draft board rank available
-9,51,3,Aaron Franken,best_available,Highest draft board rank available
-9,52,4,Ari Edgar,best_available,Highest draft board rank available
-9,53,5,Matthew Mahead,best_available,Highest draft board rank available
-9,54,6,Francis De La Cruz,best_available,Highest draft board rank available
-10,55,6,Felix Gladstone,best_available,Highest draft board rank available
-10,56,5,Hudson Archambault,best_available,Highest draft board rank available
-10,57,4,Kian Sasani,best_available,Highest draft board rank available
-10,58,3,Hayden Gudewill,best_available,Highest draft board rank available
-10,59,2,Tristan Yang-Skirko,best_available,Highest draft board rank available
-10,60,1,Reuben Samet,best_available,Highest draft board rank available
-11,61,1,Hudson Farrar,best_available,Highest draft board rank available
-11,62,2,Ari Mclaughlin,best_available,Highest draft board rank available
-11,63,3,Luca Di Nozzi,best_available,Highest draft board rank available
-11,64,4,Nolan Whitfield,best_available,Highest draft board rank available
-11,65,5,Arlo Tourigny,best_available,Highest draft board rank available
-11,66,6,Davis Hunt,best_available,Highest draft board rank available
-12,67,6,Bo Singerman,best_available,Highest draft board rank available
-12,68,5,Mylo Mclaughlin,best_available,Highest draft board rank available
-12,69,4,Carter Fong,best_available,Highest draft board rank available
-12,70,3,Arek Aubuchon,best_available,Highest draft board rank available
-12,71,2,Elliott Cocke,best_available,Highest draft board rank available
-12,72,1,Ashton Chang,best_available,Highest draft board rank available
-1,1,1,Basim Azou,balanced,Best fit for team balance model
-1,2,2,Daxton Stutters,balanced,Best fit for team balance model
-1,3,3,Tristan Edmunds,balanced,Best fit for team balance model
-1,4,4,Kyle Foster,balanced,Best fit for team balance model
-1,5,5,Easton Ferris,balanced,Best fit for team balance model
-1,6,6,Stefan Jerinic,balanced,Best fit for team balance model
+7,40,4,Sebastian Yang-Skirko,best_available,Highest draft board rank available
+7,41,5,Logan Ng,best_available,Highest draft board rank available
+7,42,6,Aaron Franken,best_available,Highest draft board rank available
+8,43,6,Dylan Bansback,best_available,Highest draft board rank available
+8,44,5,Douglas Ritchie,best_available,Highest draft board rank available
+8,45,4,Felix Vandenenden,best_available,Highest draft board rank available
+8,46,3,Oliver Lewis,best_available,Highest draft board rank available
+8,47,2,Liam Pearce,best_available,Highest draft board rank available
+8,48,1,Lawrance Zhau,best_available,Highest draft board rank available
+9,49,1,"Frederick ""Freddy"" Pragnell",best_available,Highest draft board rank available
+9,50,2,Ethan Grange,best_available,Highest draft board rank available
+9,51,3,Andre Morin,best_available,Highest draft board rank available
+9,52,4,River Yonge,best_available,Highest draft board rank available
+9,53,5,Arun Soni,best_available,Highest draft board rank available
+9,54,6,Shael Singerman,best_available,Highest draft board rank available
+10,55,6,Armann Freimanis,best_available,Highest draft board rank available
+10,56,5,Reegan Plummer,best_available,Highest draft board rank available
+10,57,4,Liam Fagan,best_available,Highest draft board rank available
+10,58,3,Dylan Armstrong,best_available,Highest draft board rank available
+10,59,2,Gyuin Lee,best_available,Highest draft board rank available
+10,60,1,Jonathan Bick,best_available,Highest draft board rank available
+11,61,1,Angus Rohee,best_available,Highest draft board rank available
+11,62,2,Dylan Bobko,best_available,Highest draft board rank available
+11,63,3,Nam Phan,best_available,Highest draft board rank available
+11,64,4,Gray Dickson,best_available,Highest draft board rank available
+11,65,5,Hank Miller,best_available,Highest draft board rank available
+11,66,6,Caleb Huh,best_available,Highest draft board rank available
+12,67,6,Ryder Everingham,best_available,Highest draft board rank available
+12,68,5,Andrew Macmillan,best_available,Highest draft board rank available
+12,69,4,Emerick Johnson,best_available,Highest draft board rank available
+12,70,3,Peyton Lee,best_available,Highest draft board rank available
+12,71,2,Stefan Jerinic,best_available,Highest draft board rank available
+12,72,1,Easton Ferris,best_available,Highest draft board rank available
+1,1,1,Charles Love,balanced,Best fit for team balance model
+1,2,2,Sean Choi,balanced,Best fit for team balance model
+1,3,3,George Morris,balanced,Best fit for team balance model
+1,4,4,Arek Aubuchon,balanced,Best fit for team balance model
+1,5,5,Brody Pendergast,balanced,Best fit for team balance model
+1,6,6,Mylo Mclaughlin,balanced,Best fit for team balance model
 2,7,6,Jack Cheyne,balanced,Best fit for team balance model
-2,8,5,Bowie Scott,balanced,Best fit for team balance model
-2,9,4,Levi Milnes,balanced,Best fit for team balance model
-2,10,3,Ryder Everingham,balanced,Best fit for team balance model
-2,11,2,Peyton Lee,balanced,Best fit for team balance model
-2,12,1,Andrew Macmillan,balanced,Best fit for team balance model
-3,13,1,Philip Dawe,balanced,Best fit for team balance model
-3,14,2,Emerick Johnson,balanced,Best fit for team balance model
-3,15,3,Hank Miller,balanced,Best fit for team balance model
-3,16,4,Caleb Huh,balanced,Best fit for team balance model
-3,17,5,Dylan Bobko,balanced,Best fit for team balance model
-3,18,6,Angus Rohee,balanced,Best fit for team balance model
-4,19,6,Nam Phan,balanced,Best fit for team balance model
-4,20,5,Jonathan Bick,balanced,Best fit for team balance model
-4,21,4,Douglas Ritchie,balanced,Best fit for team balance model
-4,22,3,Felix Vandenenden,balanced,Best fit for team balance model
-4,23,2,Reegan Plummer,balanced,Best fit for team balance model
-4,24,1,Liam Fagan,balanced,Best fit for team balance model
-5,25,1,Gray Dickson,balanced,Best fit for team balance model
-5,26,2,Dylan Armstrong,balanced,Best fit for team balance model
-5,27,3,Gyuin Lee,balanced,Best fit for team balance model
-5,28,4,Quinn Mclelan,balanced,Best fit for team balance model
-5,29,5,Arun Soni,balanced,Best fit for team balance model
-5,30,6,Aaron Franken,balanced,Best fit for team balance model
-6,31,6,"Frederick ""Freddy"" Pragnell",balanced,Best fit for team balance model
-6,32,5,Armann Freimanis,balanced,Best fit for team balance model
-6,33,4,Dylan Bansback,balanced,Best fit for team balance model
-6,34,3,Andre Morin,balanced,Best fit for team balance model
-6,35,2,Henry Galer,balanced,Best fit for team balance model
-6,36,1,Michelle Morrison,balanced,Best fit for team balance model
-7,37,1,River Yonge,balanced,Best fit for team balance model
-7,38,2,Donovan Hayes,balanced,Best fit for team balance model
-7,39,3,Shael Singerman,balanced,Best fit for team balance model
+2,8,5,Carter Fong,balanced,Best fit for team balance model
+2,9,4,Nolan Whitfield,balanced,Best fit for team balance model
+2,10,3,Milan Avinashi,balanced,Best fit for team balance model
+2,11,2,Hayden Gudewill,balanced,Best fit for team balance model
+2,12,1,Ashton Chang,balanced,Best fit for team balance model
+3,13,1,Kian Sasani,balanced,Best fit for team balance model
+3,14,2,Hudson Farrar,balanced,Best fit for team balance model
+3,15,3,Felix Gladstone,balanced,Best fit for team balance model
+3,16,4,Arlo Tourigny,balanced,Best fit for team balance model
+3,17,5,Felix Vandenenden,balanced,Best fit for team balance model
+3,18,6,Ari Mclaughlin,balanced,Best fit for team balance model
+4,19,6,Reuben Samet,balanced,Best fit for team balance model
+4,20,5,Davis Hunt,balanced,Best fit for team balance model
+4,21,4,Elliott Cocke,balanced,Best fit for team balance model
+4,22,3,Bo Singerman,balanced,Best fit for team balance model
+4,23,2,Hudson Archambault,balanced,Best fit for team balance model
+4,24,1,Henry Galer,balanced,Best fit for team balance model
+5,25,1,Matthew Mahead,balanced,Best fit for team balance model
+5,26,2,Robbie Mcmynn,balanced,Best fit for team balance model
+5,27,3,Francis De La Cruz,balanced,Best fit for team balance model
+5,28,4,Bowie Scott,balanced,Best fit for team balance model
+5,29,5,Luca Di Nozzi,balanced,Best fit for team balance model
+5,30,6,Tristan Yang-Skirko,balanced,Best fit for team balance model
+6,31,6,Michelle Morrison,balanced,Best fit for team balance model
+6,32,5,Lawrance Zhau,balanced,Best fit for team balance model
+6,33,4,Douglas Ritchie,balanced,Best fit for team balance model
+6,34,3,Logan Ng,balanced,Best fit for team balance model
+6,35,2,Ari Edgar,balanced,Best fit for team balance model
+6,36,1,"Frederick ""Freddy"" Pragnell",balanced,Best fit for team balance model
+7,37,1,Oliver Lewis,balanced,Best fit for team balance model
+7,38,2,Oran Lavigne,balanced,Best fit for team balance model
+7,39,3,Gyuin Lee,balanced,Best fit for team balance model
 7,40,4,Sasha Zvijerac,balanced,Best fit for team balance model
-7,41,5,Oran Lavigne,balanced,Best fit for team balance model
-7,42,6,Lawrance Zhau,balanced,Best fit for team balance model
-8,43,6,Liam Redden,balanced,Best fit for team balance model
-8,44,5,Oliver Lewis,balanced,Best fit for team balance model
-8,45,4,Logan Ng,balanced,Best fit for team balance model
+7,41,5,Orev Koblentz,balanced,Best fit for team balance model
+7,42,6,Andre Morin,balanced,Best fit for team balance model
+8,43,6,Quinn Mclelan,balanced,Best fit for team balance model
+8,44,5,Aaron Franken,balanced,Best fit for team balance model
+8,45,4,Dylan Bansback,balanced,Best fit for team balance model
 8,46,3,Ethan Grange,balanced,Best fit for team balance model
-8,47,2,Liam Pearce,balanced,Best fit for team balance model
-8,48,1,Orev Koblentz,balanced,Best fit for team balance model
-9,49,1,Henry Brown,balanced,Best fit for team balance model
-9,50,2,Hayden Gudewill,balanced,Best fit for team balance model
-9,51,3,Ari Edgar,balanced,Best fit for team balance model
-9,52,4,Sebastian Yang-Skirko,balanced,Best fit for team balance model
-9,53,5,Robbie Mcmynn,balanced,Best fit for team balance model
-9,54,6,Matthew Mahead,balanced,Best fit for team balance model
-10,55,6,Francis De La Cruz,balanced,Best fit for team balance model
-10,56,5,Ari Mclaughlin,balanced,Best fit for team balance model
-10,57,4,Felix Gladstone,balanced,Best fit for team balance model
-10,58,3,Kian Sasani,balanced,Best fit for team balance model
-10,59,2,Hudson Farrar,balanced,Best fit for team balance model
-10,60,1,Tristan Yang-Skirko,balanced,Best fit for team balance model
-11,61,1,Davis Hunt,balanced,Best fit for team balance model
-11,62,2,Luca Di Nozzi,balanced,Best fit for team balance model
-11,63,3,Hudson Archambault,balanced,Best fit for team balance model
-11,64,4,Bo Singerman,balanced,Best fit for team balance model
-11,65,5,Carter Fong,balanced,Best fit for team balance model
-11,66,6,Reuben Samet,balanced,Best fit for team balance model
-12,67,6,Nolan Whitfield,balanced,Best fit for team balance model
-12,68,5,Arlo Tourigny,balanced,Best fit for team balance model
-12,69,4,Elliott Cocke,balanced,Best fit for team balance model
-12,70,3,Mylo Mclaughlin,balanced,Best fit for team balance model
-12,71,2,Sean Choi,balanced,Best fit for team balance model
-12,72,1,Milan Avinashi,balanced,Best fit for team balance model
+8,47,2,Liam Fagan,balanced,Best fit for team balance model
+8,48,1,Armann Freimanis,balanced,Best fit for team balance model
+9,49,1,Sebastian Yang-Skirko,balanced,Best fit for team balance model
+9,50,2,Dylan Armstrong,balanced,Best fit for team balance model
+9,51,3,Henry Brown,balanced,Best fit for team balance model
+9,52,4,Philip Dawe,balanced,Best fit for team balance model
+9,53,5,Reegan Plummer,balanced,Best fit for team balance model
+9,54,6,Dylan Bobko,balanced,Best fit for team balance model
+10,55,6,Donovan Hayes,balanced,Best fit for team balance model
+10,56,5,Arun Soni,balanced,Best fit for team balance model
+10,57,4,Shael Singerman,balanced,Best fit for team balance model
+10,58,3,Liam Pearce,balanced,Best fit for team balance model
+10,59,2,Nam Phan,balanced,Best fit for team balance model
+10,60,1,Angus Rohee,balanced,Best fit for team balance model
+11,61,1,Caleb Huh,balanced,Best fit for team balance model
+11,62,2,River Yonge,balanced,Best fit for team balance model
+11,63,3,Jonathan Bick,balanced,Best fit for team balance model
+11,64,4,Andrew Macmillan,balanced,Best fit for team balance model
+11,65,5,Liam Redden,balanced,Best fit for team balance model
+11,66,6,Gray Dickson,balanced,Best fit for team balance model
+12,67,6,Hank Miller,balanced,Best fit for team balance model
+12,68,5,Peyton Lee,balanced,Best fit for team balance model
+12,69,4,Ryder Everingham,balanced,Best fit for team balance model
+12,70,3,Stefan Jerinic,balanced,Best fit for team balance model
+12,71,2,Emerick Johnson,balanced,Best fit for team balance model
+12,72,1,Easton Ferris,balanced,Best fit for team balance model

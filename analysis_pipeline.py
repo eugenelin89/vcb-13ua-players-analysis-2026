@@ -372,7 +372,7 @@ def build_master_players(workbook_path: Path = WORKBOOK_PATH) -> pd.DataFrame:
     master_players["velocity_avg_score"] = min_max_score(master_players["velocity_avg"], higher_is_better=True)
     master_players["velocity_max_score"] = min_max_score(master_players["velocity_max"], higher_is_better=True)
 
-    low_scale_cols = [
+    high_scale_cols = [
         "athletic_stance",
         "balance_stride",
         "barrel_level",
@@ -401,9 +401,9 @@ def build_master_players(workbook_path: Path = WORKBOOK_PATH) -> pd.DataFrame:
         "fb_velo_command_ranking",
         "pitcher_overall_ranking",
     ]
-    for col in low_scale_cols:
+    for col in high_scale_cols:
         if col in master_players.columns:
-            master_players[f"{col}_score"] = min_max_score(master_players[col], higher_is_better=False)
+            master_players[f"{col}_score"] = min_max_score(master_players[col], higher_is_better=True)
 
     master_players["athleticism_score"] = average_available(
         master_players,

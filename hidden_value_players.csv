@@ -1,78 +1,78 @@
 player_name,overall_rank,normalized_model_rank,balanced_model_rank,upside_model_rank,tier,balance_score,upside_score,value_delta,top_3_strengths,risk_flag
-Arlo Tourigny,65.0,3.0,6.0,21.0,Tier 4 - Development Players,0.0,17.074363992172213,62.0,"Throwing, Fielding, Pitching Tool",No major flag from data
-Hudson Archambault,56.0,6.0,10.0,9.0,Tier 4 - Development Players,0.0,24.697562711261337,50.0,"Pitching Tool, Throwing, Hitting","Defensive polish, Offensive impact"
-Bo Singerman,67.0,24.0,11.0,14.0,Tier 4 - Development Players,10.690606850661624,21.212121212121215,43.0,"Fielding, Hitting, Throwing",No major flag from data
-Tristan Yang-Skirko,59.0,16.0,23.0,20.0,Tier 4 - Development Players,0.0,28.651485500800568,43.0,"Fielding, Throwing, Pitching Tool",No major flag from data
-Ari Edgar,52.0,10.0,16.0,34.0,Tier 3 - Solid Contributors,0.0,31.971624266144815,42.0,"Pitching Tool, Fielding, Throwing",Offensive impact
-Arek Aubuchon,70.0,30.0,35.0,12.0,Tier 4 - Development Players,0.0,37.91585127201565,40.0,"Pitching Tool, Throwing, Hitting",High variance profile
-Liam Redden,40.0,2.0,5.0,2.0,Tier 3 - Solid Contributors,0.0,15.419854118484256,38.0,"Throwing, Athleticism, Pitching Tool","Pitching depth, Defensive polish"
-Charles Love,77.0,39.0,43.0,15.0,Tier 4 - Development Players,0.0,23.416651841309374,38.0,"Fielding, Hitting, Throwing",High variance profile
-Francis De La Cruz,54.0,18.0,26.0,25.0,Tier 3 - Solid Contributors,0.0,41.85198363280554,36.0,"Pitching Tool, Fielding, Hitting",No major flag from data
-Sebastian Yang-Skirko,34.0,4.0,8.0,3.0,Tier 3 - Solid Contributors,0.0,25.355808574986657,30.0,"Pitching Tool, Throwing, Athleticism","Pitching depth, Defensive polish"
-Liam Pearce,35.0,5.0,9.0,4.0,Tier 3 - Solid Contributors,0.0,29.883472691691868,30.0,"Pitching Tool, Fielding, Throwing","Pitching depth, Defensive polish"
-Philip Dawe,47.0,23.0,3.0,55.0,Tier 3 - Solid Contributors,28.619934235219603,35.547500444760715,24.0,"Throwing, Hitting, Fielding",Pitching depth
-Donovan Hayes,44.0,21.0,29.0,44.0,Tier 3 - Solid Contributors,0.0,39.87502223803594,23.0,"Fielding, Athleticism, Hitting",Pitching depth
-Brody Pendergast,73.0,50.0,54.0,49.0,Tier 4 - Development Players,0.0,39.07000533712862,23.0,"Pitching Tool, Hitting, Fielding",No major flag from data
-River Yonge,26.0,7.0,12.0,33.0,Tier 2 - Strong Starters,0.0,26.47882938978829,19.0,"Fielding, Throwing, Hitting",Pitching depth
-Oran Lavigne,43.0,25.0,31.0,31.0,Tier 3 - Solid Contributors,0.0,47.66278242305639,18.0,"Pitching Tool, Fielding, Athleticism",No major flag from data
-Henry Brown,38.0,22.0,30.0,40.0,Tier 3 - Solid Contributors,0.0,47.304750044476066,16.0,"Athleticism, Throwing, Hitting",No major flag from data
-Bowie Scott,42.0,27.0,2.0,58.0,Tier 3 - Solid Contributors,48.30417366581857,36.09233232520904,15.0,"Fielding, Hitting, Throwing",Pitching depth
-Arun Soni,16.0,1.0,4.0,1.0,Tier 2 - Strong Starters,0.0,27.07258494929728,15.0,"Athleticism, Throwing, Pitching Tool","Pitching depth, Defensive polish"
-Carter Fong,69.0,54.0,57.0,39.0,Tier 4 - Development Players,0.0,52.89539227895393,15.0,"Hitting, Throwing, Fielding",No major flag from data
-Reuben Samet,60.0,47.0,51.0,37.0,Tier 4 - Development Players,0.0,42.82378580323786,13.0,"Pitching Tool, Throwing, Hitting",No major flag from data
-Ashton Chang,72.0,59.0,62.0,43.0,Tier 4 - Development Players,0.0,37.195338907667676,13.0,"Fielding, Throwing, Pitching Tool",High variance profile
-Shael Singerman,20.0,8.0,14.0,5.0,Tier 2 - Strong Starters,0.0,36.58008658008658,12.0,"Throwing, Athleticism, Fielding","Defensive polish, Offensive impact"
-Oliver Lewis,31.0,20.0,28.0,41.0,Tier 3 - Solid Contributors,0.0,59.02419498309909,11.0,"Fielding, Pitching Tool, Throwing",No major flag from data
-Jonathan Bick,17.0,11.0,17.0,35.0,Tier 2 - Strong Starters,0.0,39.9706457925636,6.0,"Athleticism, Fielding, Hitting","Pitching depth, Offensive impact"
-Sasha Zvijerac,48.0,42.0,46.0,67.0,Tier 3 - Solid Contributors,0.0,49.11714997331435,6.0,"Fielding, Hitting, Throwing",No major flag from data
-Davis Hunt,66.0,60.0,63.0,57.0,Tier 4 - Development Players,0.0,47.76952499555239,6.0,"Throwing, Hitting, Fielding",No major flag from data
-Dylan Bobko,14.0,9.0,15.0,6.0,Tier 2 - Strong Starters,0.0,49.132716598470026,5.0,"Athleticism, Throwing, Fielding","Pitching depth, Defensive polish"
-Gray Dickson,19.0,15.0,22.0,8.0,Tier 2 - Strong Starters,0.0,49.63084860345134,4.0,"Athleticism, Pitching Tool, Hitting","Defensive polish, Offensive impact"
-Reegan Plummer,23.0,19.0,27.0,38.0,Tier 2 - Strong Starters,0.0,47.607187333214725,4.0,"Athleticism, Fielding, Hitting","Pitching depth, Offensive impact"
-Dylan Bansback,41.0,38.0,42.0,61.0,Tier 3 - Solid Contributors,0.0,48.352161537093046,3.0,"Hitting, Athleticism, Throwing",No major flag from data
-Sean Choi,75.0,72.0,72.0,52.0,Tier 4 - Development Players,0.0,61.0411848425547,3.0,"Hitting, Fielding, Throwing",High variance profile
-Angus Rohee,15.0,13.0,19.0,18.0,Tier 2 - Strong Starters,0.0,39.625956235545274,2.0,"Athleticism, Fielding, Throwing","Pitching depth, Defensive polish"
-Ethan Grange,30.0,28.0,33.0,22.0,Tier 3 - Solid Contributors,0.0,48.7613413983277,2.0,"Pitching Tool, Athleticism, Hitting","Defensive polish, Offensive impact"
-Douglas Ritchie,32.0,31.0,7.0,65.0,Tier 3 - Solid Contributors,16.532450925557654,60.732076143035044,1.0,"Throwing, Fielding, Hitting",No major flag from data
-Armann Freimanis,18.0,17.0,25.0,53.0,Tier 2 - Strong Starters,0.0,55.93755559508984,1.0,"Pitching Tool, Fielding, Athleticism",Offensive impact
-Kian Sasani,57.0,56.0,59.0,46.0,Tier 4 - Development Players,0.0,52.97989681551326,1.0,"Throwing, Fielding, Hitting",No major flag from data
-Orev Koblentz,33.0,33.0,37.0,60.0,Tier 3 - Solid Contributors,0.0,49.62640099626401,0.0,"Pitching Tool, Athleticism, Throwing",No major flag from data
-Felix Gladstone,55.0,55.0,58.0,48.0,Tier 4 - Development Players,0.0,55.268190713396194,0.0,"Pitching Tool, Fielding, Hitting",No major flag from data
-George Morris,76.0,76.0,76.0,72.0,Tier 4 - Development Players,0.0,46.103896103896105,0.0,"Pitching Tool, Hitting, Fielding",No major flag from data
-Logan Ng,36.0,37.0,41.0,66.0,Tier 3 - Solid Contributors,0.0,52.06813734210994,-1.0,"Fielding, Throwing, Athleticism",Pitching depth
-Milan Avinashi,74.0,75.0,75.0,69.0,Tier 4 - Development Players,0.0,49.42625867283401,-1.0,"Hitting, Fielding, Throwing",No major flag from data
-Jack Cheyne,49.0,51.0,1.0,71.0,Tier 3 - Solid Contributors,55.97964552318495,45.214374666429464,-2.0,"Hitting, Fielding, Throwing",Pitching depth
-Robbie Mcmynn,50.0,53.0,56.0,62.0,Tier 3 - Solid Contributors,0.0,53.698185376267574,-3.0,"Pitching Tool, Throwing, Fielding",No major flag from data
-Mylo Mclaughlin,68.0,71.0,71.0,63.0,Tier 4 - Development Players,0.0,53.878313467354566,-3.0,"Pitching Tool, Hitting, Fielding",High variance profile
-Hayden Gudewill,58.0,62.0,13.0,59.0,Tier 4 - Development Players,20.509448642063532,45.69471624266144,-4.0,"Hitting, Fielding, Pitching Tool",No major flag from data
-Luca Di Nozzi,63.0,67.0,67.0,36.0,Tier 4 - Development Players,0.0,37.22943722943723,-4.0,"Fielding, Throwing, Hitting",High variance profile
-Nolan Whitfield,64.0,68.0,68.0,54.0,Tier 4 - Development Players,0.0,51.02962106386764,-4.0,"Pitching Tool, Fielding, Hitting",No major flag from data
-Andre Morin,27.0,32.0,36.0,10.0,Tier 2 - Strong Starters,0.0,56.09766945383384,-5.0,"Athleticism, Throwing, Hitting",Defensive polish
-Matthew Mahead,53.0,58.0,61.0,50.0,Tier 3 - Solid Contributors,0.0,46.057196228429106,-5.0,"Hitting, Throwing, Pitching Tool",No major flag from data
-Elliott Cocke,71.0,77.0,77.0,51.0,Tier 4 - Development Players,0.0,43.72294372294372,-6.0,"Fielding, Hitting, Throwing",High variance profile
-Levi Milnes,5.0,12.0,18.0,7.0,Tier 1 - Impact Players,0.0,49.255025796121686,-7.0,"Athleticism, Pitching Tool, Throwing","Pitching depth, Defensive polish"
-Quinn Mclelan,45.0,52.0,55.0,64.0,Tier 3 - Solid Contributors,0.0,56.30893079523216,-7.0,"Athleticism, Hitting, Throwing",Pitching depth
-Hudson Farrar,61.0,70.0,70.0,75.0,Tier 4 - Development Players,0.0,61.31248888098203,-9.0,"Throwing, Hitting, Pitching Tool",No major flag from data
-Kyle Foster,4.0,14.0,20.0,19.0,Tier 1 - Impact Players,0.0,58.999733143568754,-10.0,"Athleticism, Fielding, Throwing","Pitching depth, Defensive polish"
-Lawrance Zhau,29.0,40.0,44.0,47.0,Tier 3 - Solid Contributors,0.0,62.66678526952499,-11.0,"Pitching Tool, Throwing, Athleticism",No major flag from data
-Michelle Morrison,46.0,57.0,60.0,68.0,Tier 3 - Solid Contributors,0.0,59.15317559153176,-11.0,"Throwing, Athleticism, Hitting",No major flag from data
-Ari Mclaughlin,62.0,74.0,74.0,70.0,Tier 4 - Development Players,0.0,56.17550257961217,-12.0,"Hitting, Athleticism, Throwing",No major flag from data
-Dylan Armstrong,21.0,35.0,39.0,45.0,Tier 2 - Strong Starters,0.0,68.00613769791852,-14.0,"Pitching Tool, Fielding, Athleticism",Offensive impact
-Liam Fagan,22.0,36.0,40.0,13.0,Tier 2 - Strong Starters,0.0,69.82965664472513,-14.0,"Pitching Tool, Athleticism, Throwing","Defensive polish, Offensive impact"
-Caleb Huh,9.0,26.0,32.0,42.0,Tier 2 - Strong Starters,0.0,66.53842732609856,-17.0,"Athleticism, Pitching Tool, Fielding",Offensive impact
-Emerick Johnson,12.0,29.0,34.0,23.0,Tier 2 - Strong Starters,0.0,66.40722291407222,-17.0,"Athleticism, Pitching Tool, Fielding","Defensive polish, Offensive impact"
-"Frederick ""Freddy"" Pragnell",28.0,46.0,50.0,28.0,Tier 3 - Solid Contributors,0.0,69.1736345845935,-18.0,"Athleticism, Throwing, Hitting",Defensive polish
-Aaron Franken,51.0,69.0,69.0,74.0,Tier 3 - Solid Contributors,0.0,62.62230919765166,-18.0,"Fielding, Athleticism, Hitting",Pitching depth
-Nam Phan,24.0,45.0,49.0,27.0,Tier 2 - Strong Starters,0.0,61.296922255826374,-21.0,"Athleticism, Hitting, Fielding","Pitching depth, Defensive polish"
-Ryder Everingham,10.0,34.0,38.0,11.0,Tier 2 - Strong Starters,0.0,66.80973136452589,-24.0,"Athleticism, Hitting, Throwing","Pitching depth, Defensive polish"
-Henry Galer,39.0,66.0,21.0,76.0,Tier 3 - Solid Contributors,20.25036667558649,73.84806973848069,-27.0,"Pitching Tool, Hitting, Athleticism",No major flag from data
-Felix Vandenenden,37.0,65.0,24.0,73.0,Tier 3 - Solid Contributors,16.419095275569845,73.35660914428038,-28.0,"Hitting, Athleticism, Throwing",No major flag from data
-Hank Miller,13.0,41.0,45.0,24.0,Tier 2 - Strong Starters,0.0,59.34887030777442,-28.0,"Athleticism, Hitting, Fielding","Pitching depth, Defensive polish"
-Basim Azou,1.0,43.0,47.0,16.0,Tier 1 - Impact Players,0.0,71.89557018324142,-42.0,"Athleticism, Throwing, Hitting","Pitching depth, Defensive polish"
-Tristan Edmunds,2.0,44.0,48.0,26.0,Tier 1 - Impact Players,0.0,66.95205479452055,-42.0,"Athleticism, Hitting, Fielding","Pitching depth, Defensive polish"
-Easton Ferris,6.0,49.0,53.0,30.0,Tier 1 - Impact Players,0.0,73.85696495285536,-43.0,"Athleticism, Pitching Tool, Hitting","Defensive polish, Offensive impact"
-Daxton Stutters,3.0,48.0,52.0,29.0,Tier 1 - Impact Players,0.0,74.71757694360434,-45.0,"Athleticism, Hitting, Fielding","Pitching depth, Defensive polish"
-Gyuin Lee,25.0,73.0,73.0,77.0,Tier 2 - Strong Starters,0.0,86.88845401174169,-48.0,"Pitching Tool, Athleticism, Fielding",No major flag from data
-Andrew Macmillan,11.0,61.0,64.0,32.0,Tier 2 - Strong Starters,0.0,75.36915139654866,-50.0,"Athleticism, Pitching Tool, Hitting",Defensive polish
-Peyton Lee,8.0,63.0,65.0,17.0,Tier 2 - Strong Starters,0.0,64.49475182351894,-55.0,"Pitching Tool, Athleticism, Throwing","Defensive polish, Offensive impact"
-Stefan Jerinic,7.0,64.0,66.0,56.0,Tier 1 - Impact Players,0.0,68.55541718555418,-57.0,"Athleticism, Fielding, Hitting",Pitching depth
+Oliver Lewis,46.0,21.0,26.0,29.0,Tier 3 - Solid Contributors,0.0,53.20227717487992,25.0,"Athleticism, Pitching Tool, Hitting",Defensive polish
+Armann Freimanis,55.0,41.0,43.0,44.0,Tier 3 - Solid Contributors,0.0,44.9786514855008,14.0,"Throwing, Hitting, Athleticism",No major flag from data
+River Yonge,52.0,40.0,42.0,32.0,Tier 3 - Solid Contributors,0.0,48.39663760896637,12.0,"Pitching Tool, Hitting, Throwing",Defensive polish
+Dylan Bansback,43.0,33.0,37.0,41.0,Tier 3 - Solid Contributors,0.0,59.31106564668209,10.0,"Pitching Tool, Athleticism, Fielding",Offensive impact
+Shael Singerman,54.0,45.0,46.0,18.0,Tier 3 - Solid Contributors,0.0,36.58008658008658,9.0,"Fielding, Throwing, Hitting",High variance profile
+Gray Dickson,64.0,55.0,55.0,48.0,Tier 3 - Solid Contributors,0.0,59.219889699341756,9.0,"Fielding, Pitching Tool, Throwing",High variance profile
+Francis De La Cruz,24.0,17.0,23.0,19.0,Tier 2 - Strong Starters,0.0,32.605408290339795,7.0,"Throwing, Fielding, Hitting",High variance profile
+Mylo Mclaughlin,8.0,3.0,5.0,3.0,Tier 1 - Impact Players,0.0,30.248176481053193,5.0,"Athleticism, Throwing, Fielding","Pitching depth, Defensive polish"
+Tristan Yang-Skirko,20.0,15.0,21.0,15.0,Tier 2 - Strong Starters,0.0,29.336417007649885,5.0,"Pitching Tool, Throwing, Fielding","Defensive polish, Offensive impact"
+Douglas Ritchie,44.0,39.0,41.0,51.0,Tier 3 - Solid Contributors,0.0,58.6772816224871,5.0,"Hitting, Fielding, Pitching Tool",No major flag from data
+Levi Milnes,75.0,70.0,70.0,53.0,Tier 4 - Development Players,0.0,66.72077922077922,5.0,"Athleticism, Pitching Tool, Fielding",High variance profile
+Hudson Archambault,16.0,12.0,18.0,11.0,Tier 2 - Strong Starters,0.0,11.683864081124355,4.0,"Fielding, Throwing, Hitting","Pitching depth, Offensive impact"
+Quinn Mclelan,34.0,30.0,34.0,40.0,Tier 3 - Solid Contributors,0.0,65.89797189112257,4.0,"Athleticism, Pitching Tool, Fielding",Offensive impact
+Arun Soni,53.0,49.0,49.0,38.0,Tier 3 - Solid Contributors,0.0,41.11368083970824,4.0,"Fielding, Hitting, Throwing",High variance profile
+Hudson Farrar,17.0,14.0,20.0,26.0,Tier 2 - Strong Starters,0.0,44.18920120974916,3.0,"Athleticism, Fielding, Pitching Tool","Pitching depth, Defensive polish"
+Orev Koblentz,37.0,34.0,38.0,36.0,Tier 3 - Solid Contributors,0.0,37.297633872976334,3.0,"Athleticism, Hitting, Fielding",Pitching depth
+Jonathan Bick,60.0,57.0,57.0,50.0,Tier 3 - Solid Contributors,0.0,60.86105675146771,3.0,"Pitching Tool, Throwing, Hitting",No major flag from data
+Easton Ferris,72.0,69.0,69.0,70.0,Tier 4 - Development Players,0.0,84.81586906244442,3.0,"Athleticism, Hitting, Pitching Tool",No major flag from data
+Kian Sasani,15.0,13.0,19.0,21.0,Tier 2 - Strong Starters,0.0,36.541540651129694,2.0,"Athleticism, Hitting, Fielding","Pitching depth, Defensive polish"
+Oran Lavigne,30.0,28.0,32.0,24.0,Tier 3 - Solid Contributors,0.0,41.155933107987906,2.0,"Throwing, Hitting, Fielding",Pitching depth
+Lawrance Zhau,48.0,46.0,47.0,43.0,Tier 3 - Solid Contributors,0.0,51.365415406511296,2.0,"Fielding, Hitting, Athleticism",Pitching depth
+Emerick Johnson,69.0,67.0,67.0,67.0,Tier 4 - Development Players,0.0,80.44831880448318,2.0,"Pitching Tool, Hitting, Throwing",No major flag from data
+Kyle Foster,73.0,71.0,71.0,69.0,Tier 4 - Development Players,0.0,81.60247286959616,2.0,"Pitching Tool, Hitting, Athleticism",No major flag from data
+Sean Choi,3.0,2.0,4.0,2.0,Tier 1 - Impact Players,0.0,39.80830813022594,1.0,"Athleticism, Throwing, Fielding","Pitching depth, Defensive polish"
+Carter Fong,7.0,6.0,8.0,13.0,Tier 1 - Impact Players,0.0,46.04607721046078,1.0,"Athleticism, Pitching Tool, Fielding","Pitching depth, Defensive polish"
+Ashton Chang,9.0,8.0,11.0,4.0,Tier 1 - Impact Players,0.0,19.387119729585482,1.0,"Athleticism, Pitching Tool, Throwing","Pitching depth, Defensive polish"
+Ari Mclaughlin,19.0,18.0,24.0,31.0,Tier 2 - Strong Starters,0.0,47.27139299057107,1.0,"Athleticism, Fielding, Pitching Tool","Pitching depth, Defensive polish"
+Felix Gladstone,21.0,20.0,25.0,22.0,Tier 2 - Strong Starters,0.0,35.0627112613414,1.0,"Throwing, Hitting, Fielding","Pitching depth, Defensive polish"
+Nam Phan,63.0,62.0,62.0,62.0,Tier 3 - Solid Contributors,0.0,77.05034691336061,1.0,"Athleticism, Pitching Tool, Throwing",No major flag from data
+Caleb Huh,66.0,65.0,65.0,64.0,Tier 4 - Development Players,0.0,64.48363280555061,1.0,"Hitting, Athleticism, Throwing",No major flag from data
+Daxton Stutters,74.0,73.0,73.0,73.0,Tier 4 - Development Players,0.0,89.10113858743996,1.0,"Athleticism, Hitting, Throwing",No major flag from data
+Charles Love,1.0,1.0,2.0,1.0,Tier 1 - Impact Players,0.0,5.950898416651841,0.0,"Throwing, Pitching Tool, Athleticism","Pitching depth, Defensive polish"
+Brody Pendergast,5.0,5.0,7.0,6.0,Tier 1 - Impact Players,0.0,16.467265611101226,0.0,"Throwing, Fielding, Athleticism","Pitching depth, Defensive polish"
+Arlo Tourigny,10.0,10.0,15.0,16.0,Tier 1 - Impact Players,0.0,12.964774951076322,0.0,"Fielding, Throwing, Hitting","Pitching depth, Offensive impact"
+Nolan Whitfield,11.0,11.0,17.0,12.0,Tier 2 - Strong Starters,0.0,29.796744351538873,0.0,"Throwing, Athleticism, Hitting","Pitching depth, Defensive polish"
+Ari Edgar,26.0,26.0,30.0,42.0,Tier 2 - Strong Starters,0.0,27.86203522504892,0.0,"Throwing, Hitting, Fielding","Pitching depth, High variance profile"
+Robbie Mcmynn,27.0,27.0,31.0,25.0,Tier 2 - Strong Starters,0.0,32.122842910514144,0.0,"Hitting, Fielding, Throwing",Pitching depth
+Sasha Zvijerac,31.0,31.0,35.0,47.0,Tier 3 - Solid Contributors,0.0,50.48701298701298,0.0,"Pitching Tool, Athleticism, Throwing",Defensive polish
+Philip Dawe,32.0,32.0,36.0,37.0,Tier 3 - Solid Contributors,0.0,48.5611990748977,0.0,"Pitching Tool, Fielding, Throwing",Offensive impact
+Henry Brown,38.0,38.0,40.0,39.0,Tier 3 - Solid Contributors,0.0,51.756804838996615,0.0,"Athleticism, Fielding, Pitching Tool",No major flag from data
+Ethan Grange,50.0,50.0,50.0,49.0,Tier 3 - Solid Contributors,0.0,46.02161537093044,0.0,"Throwing, Fielding, Hitting",No major flag from data
+Gyuin Lee,59.0,59.0,59.0,59.0,Tier 3 - Solid Contributors,0.0,73.53228962818004,0.0,"Athleticism, Hitting, Throwing",Defensive polish
+Angus Rohee,61.0,61.0,61.0,60.0,Tier 3 - Solid Contributors,0.0,52.98212061910692,0.0,"Hitting, Throwing, Fielding",No major flag from data
+Andrew Macmillan,68.0,68.0,68.0,71.0,Tier 4 - Development Players,0.0,81.53353495819249,0.0,"Athleticism, Hitting, Throwing",No major flag from data
+Tristan Edmunds,76.0,76.0,76.0,76.0,Tier 4 - Development Players,0.0,87.15753424657534,0.0,"Hitting, Pitching Tool, Athleticism",No major flag from data
+Basim Azou,77.0,77.0,77.0,77.0,Tier 4 - Development Players,0.0,93.47091264899484,0.0,"Hitting, Athleticism, Pitching Tool",No major flag from data
+Luca Di Nozzi,22.0,23.0,28.0,8.0,Tier 2 - Strong Starters,0.0,37.22943722943723,-1.0,"Athleticism, Hitting, Throwing","Defensive polish, Offensive impact"
+Hank Miller,65.0,66.0,66.0,68.0,Tier 4 - Development Players,0.0,75.10229496530866,-1.0,"Athleticism, Pitching Tool, Throwing",No major flag from data
+Hayden Gudewill,23.0,25.0,3.0,30.0,Tier 2 - Strong Starters,30.858812517699505,38.845401174168295,-2.0,"Athleticism, Pitching Tool, Throwing","Defensive polish, Offensive impact"
+George Morris,2.0,4.0,6.0,10.0,Tier 1 - Impact Players,0.0,23.501156377868703,-2.0,"Athleticism, Fielding, Throwing","Pitching depth, Defensive polish"
+Logan Ng,41.0,43.0,44.0,55.0,Tier 3 - Solid Contributors,0.0,55.49279487635652,-2.0,"Athleticism, Hitting, Pitching Tool",Defensive polish
+Reegan Plummer,56.0,58.0,58.0,58.0,Tier 3 - Solid Contributors,0.0,61.990748977050345,-2.0,"Throwing, Pitching Tool, Athleticism",No major flag from data
+Dylan Armstrong,58.0,60.0,60.0,52.0,Tier 3 - Solid Contributors,0.0,63.89654865682263,-2.0,"Throwing, Hitting, Fielding",No major flag from data
+Dylan Bobko,62.0,64.0,64.0,65.0,Tier 3 - Solid Contributors,0.0,63.17381248888098,-2.0,"Fielding, Hitting, Throwing",No major flag from data
+Arek Aubuchon,4.0,7.0,10.0,5.0,Tier 1 - Impact Players,0.0,14.628180039138943,-3.0,"Fielding, Hitting, Throwing","Pitching depth, Offensive impact"
+Milan Avinashi,6.0,9.0,12.0,20.0,Tier 1 - Impact Players,0.0,34.01529976872442,-3.0,"Athleticism, Pitching Tool, Fielding","Pitching depth, Defensive polish"
+Henry Galer,39.0,42.0,13.0,57.0,Tier 3 - Solid Contributors,23.798735788303446,62.204234122042344,-3.0,"Athleticism, Hitting, Fielding",No major flag from data
+Felix Vandenenden,45.0,48.0,16.0,63.0,Tier 3 - Solid Contributors,23.427448888820734,71.30181462373244,-3.0,"Athleticism, Pitching Tool, Hitting",No major flag from data
+Davis Hunt,13.0,16.0,22.0,27.0,Tier 2 - Strong Starters,0.0,39.892812666785275,-3.0,"Athleticism, Pitching Tool, Fielding","Pitching depth, Defensive polish"
+Stefan Jerinic,71.0,74.0,74.0,75.0,Tier 4 - Development Players,0.0,79.17185554171854,-3.0,"Athleticism, Hitting, Throwing",No major flag from data
+Bowie Scott,33.0,37.0,9.0,45.0,Tier 3 - Solid Contributors,23.98977200976701,50.81835972246931,-4.0,"Pitching Tool, Throwing, Hitting",Defensive polish
+Reuben Samet,18.0,22.0,27.0,23.0,Tier 2 - Strong Starters,0.0,25.70049813200498,-4.0,"Fielding, Hitting, Throwing",Pitching depth
+Matthew Mahead,25.0,29.0,33.0,28.0,Tier 2 - Strong Starters,0.0,37.838018146237324,-4.0,"Fielding, Throwing, Hitting","Pitching depth, Offensive impact"
+Sebastian Yang-Skirko,40.0,44.0,45.0,33.0,Tier 3 - Solid Contributors,0.0,35.97224693115104,-4.0,"Fielding, Throwing, Hitting",High variance profile
+"Frederick ""Freddy"" Pragnell",49.0,53.0,53.0,61.0,Tier 3 - Solid Contributors,0.0,67.11884006404554,-4.0,"Fielding, Athleticism, Hitting",No major flag from data
+Bo Singerman,14.0,19.0,14.0,7.0,Tier 2 - Strong Starters,10.690606850661624,21.212121212121215,-5.0,"Throwing, Fielding, Hitting","Defensive polish, Offensive impact"
+Liam Pearce,47.0,52.0,52.0,14.0,Tier 3 - Solid Contributors,0.0,45.979363102650765,-5.0,"Pitching Tool, Throwing, Fielding",High variance profile
+Andre Morin,51.0,56.0,56.0,56.0,Tier 3 - Solid Contributors,0.0,57.46753246753247,-5.0,"Fielding, Athleticism, Hitting",No major flag from data
+Ryder Everingham,67.0,72.0,72.0,74.0,Tier 4 - Development Players,0.0,88.04260807685465,-5.0,"Fielding, Pitching Tool, Hitting",No major flag from data
+Peyton Lee,70.0,75.0,75.0,72.0,Tier 4 - Development Players,0.0,71.3440668920121,-5.0,"Hitting, Fielding, Throwing",No major flag from data
+Liam Fagan,57.0,63.0,63.0,66.0,Tier 3 - Solid Contributors,0.0,67.43239637075254,-6.0,"Fielding, Hitting, Throwing",No major flag from data
+Jack Cheyne,28.0,35.0,1.0,54.0,Tier 3 - Solid Contributors,55.97964552318495,48.639032200676034,-7.0,"Athleticism, Pitching Tool, Throwing",Defensive polish
+Michelle Morrison,29.0,36.0,39.0,46.0,Tier 3 - Solid Contributors,0.0,52.64632627646327,-7.0,"Athleticism, Pitching Tool, Fielding","Pitching depth, Defensive polish"
+Aaron Franken,42.0,51.0,51.0,34.0,Tier 3 - Solid Contributors,0.0,80.43052837573384,-9.0,"Pitching Tool, Athleticism, Throwing","Defensive polish, High variance profile"
+Elliott Cocke,12.0,24.0,29.0,9.0,Tier 2 - Strong Starters,0.0,43.72294372294372,-12.0,"Athleticism, Hitting, Throwing","Defensive polish, Offensive impact"
+Donovan Hayes,35.0,47.0,48.0,35.0,Tier 3 - Solid Contributors,0.0,50.491460594200326,-12.0,"Throwing, Pitching Tool, Hitting",Defensive polish
+Liam Redden,36.0,54.0,54.0,17.0,Tier 3 - Solid Contributors,0.0,34.25547055684042,-18.0,"Fielding, Pitching Tool, Hitting",High variance profile
