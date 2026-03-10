@@ -1,0 +1,819 @@
+{
+  "Ranking ": {
+    "row_count": 80,
+    "column_count": 23,
+    "column_names": [
+      "Unnamed: 0",
+      "VCB House 13 U - PeeWee Assessment - Performance Scores",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "VCB House 13 U - PeeWee Assessment - Power Ranking by Skill",
+      "Unnamed: 14",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "Unnamed: 19",
+      "Unnamed: 20",
+      "Unnamed: 21",
+      "Unnamed: 22"
+    ],
+    "missing_by_column": {
+      "Unnamed: 0": 80,
+      "VCB House 13 U - PeeWee Assessment - Performance Scores": 2,
+      "Unnamed: 2": 2,
+      "Unnamed: 3": 2,
+      "Unnamed: 4": 2,
+      "Unnamed: 5": 2,
+      "Unnamed: 6": 2,
+      "Unnamed: 7": 2,
+      "Unnamed: 8": 2,
+      "Unnamed: 9": 2,
+      "Unnamed: 10": 2,
+      "Unnamed: 11": 80,
+      "Unnamed: 12": 3,
+      "VCB House 13 U - PeeWee Assessment - Power Ranking by Skill": 2,
+      "Unnamed: 14": 2,
+      "Unnamed: 15": 2,
+      "Unnamed: 16": 2,
+      "Unnamed: 17": 2,
+      "Unnamed: 18": 2,
+      "Unnamed: 19": 2,
+      "Unnamed: 20": 2,
+      "Unnamed: 21": 6,
+      "Unnamed: 22": 2
+    },
+    "sample_rows": [
+      {
+        "Unnamed: 0": "",
+        "VCB House 13 U - PeeWee Assessment - Performance Scores": "",
+        "Unnamed: 2": "",
+        "Unnamed: 3": "",
+        "Unnamed: 4": "",
+        "Unnamed: 5": "",
+        "Unnamed: 6": "",
+        "Unnamed: 7": "",
+        "Unnamed: 8": "",
+        "Unnamed: 9": "",
+        "Unnamed: 10": "",
+        "Unnamed: 11": "",
+        "Unnamed: 12": "",
+        "VCB House 13 U - PeeWee Assessment - Power Ranking by Skill": "",
+        "Unnamed: 14": "",
+        "Unnamed: 15": "",
+        "Unnamed: 16": "",
+        "Unnamed: 17": "",
+        "Unnamed: 18": "",
+        "Unnamed: 19": "",
+        "Unnamed: 20": "",
+        "Unnamed: 21": "",
+        "Unnamed: 22": ""
+      },
+      {
+        "Unnamed: 0": "",
+        "VCB House 13 U - PeeWee Assessment - Performance Scores": "",
+        "Unnamed: 2": "",
+        "Unnamed: 3": "",
+        "Unnamed: 4": "",
+        "Unnamed: 5": "",
+        "Unnamed: 6": "",
+        "Unnamed: 7": "",
+        "Unnamed: 8": "",
+        "Unnamed: 9": "",
+        "Unnamed: 10": "",
+        "Unnamed: 11": "",
+        "Unnamed: 12": "",
+        "VCB House 13 U - PeeWee Assessment - Power Ranking by Skill": "",
+        "Unnamed: 14": "",
+        "Unnamed: 15": "",
+        "Unnamed: 16": "",
+        "Unnamed: 17": "",
+        "Unnamed: 18": "",
+        "Unnamed: 19": "",
+        "Unnamed: 20": "",
+        "Unnamed: 21": "",
+        "Unnamed: 22": ""
+      },
+      {
+        "Unnamed: 0": "",
+        "VCB House 13 U - PeeWee Assessment - Performance Scores": "Name",
+        "Unnamed: 2": "Speed Ranking",
+        "Unnamed: 3": "Power Ranking ",
+        "Unnamed: 4": "Overall Athleticism Ranking",
+        "Unnamed: 5": "Hitting Subjective ",
+        "Unnamed: 6": "Hitting Objective ",
+        "Unnamed: 7": "Overall Hitting Ranking ",
+        "Unnamed: 8": "Fielding Ranking",
+        "Unnamed: 9": "Throwing Ranking",
+        "Unnamed: 10": "Overall Ranking ",
+        "Unnamed: 11": "",
+        "Unnamed: 12": "",
+        "VCB House 13 U - PeeWee Assessment - Power Ranking by Skill": "Speed",
+        "Unnamed: 14": "Power Ranking ",
+        "Unnamed: 15": "Total Athletic Ranking ",
+        "Unnamed: 16": "Hitting Subjective ",
+        "Unnamed: 17": "Hitting Objective ",
+        "Unnamed: 18": "Overall Hitting ",
+        "Unnamed: 19": "Fielding ",
+        "Unnamed: 20": "Throwing ",
+        "Unnamed: 21": "Pitching ",
+        "Unnamed: 22": "Pitching "
+      },
+      {
+        "Unnamed: 0": "",
+        "VCB House 13 U - PeeWee Assessment - Performance Scores": "Aaron Franken",
+        "Unnamed: 2": "3.45",
+        "Unnamed: 3": "1",
+        "Unnamed: 4": "2",
+        "Unnamed: 5": "5",
+        "Unnamed: 6": "3",
+        "Unnamed: 7": "4.1",
+        "Unnamed: 8": "4",
+        "Unnamed: 9": "3",
+        "Unnamed: 10": "3.275",
+        "Unnamed: 11": "",
+        "Unnamed: 12": "1",
+        "VCB House 13 U - PeeWee Assessment - Power Ranking by Skill": "Liam Pearce",
+        "Unnamed: 14": "Arek Aubuchon",
+        "Unnamed: 15": "Arek Aubuchon",
+        "Unnamed: 16": "Charles Love",
+        "Unnamed: 17": "Charles Love",
+        "Unnamed: 18": "Charles Love",
+        "Unnamed: 19": "Charles Love",
+        "Unnamed: 20": "Charles Love",
+        "Unnamed: 21": "Arek Aubuchon",
+        "Unnamed: 22": "Charles Love"
+      },
+      {
+        "Unnamed: 0": "",
+        "VCB House 13 U - PeeWee Assessment - Performance Scores": "Andre Morin",
+        "Unnamed: 2": "3.81",
+        "Unnamed: 3": "3",
+        "Unnamed: 4": "2.5",
+        "Unnamed: 5": "3",
+        "Unnamed: 6": "3",
+        "Unnamed: 7": "3",
+        "Unnamed: 8": "2",
+        "Unnamed: 9": "3",
+        "Unnamed: 10": "2.625",
+        "Unnamed: 11": "",
+        "Unnamed: 12": "2",
+        "VCB House 13 U - PeeWee Assessment - Power Ranking by Skill": "Arek Aubuchon",
+        "Unnamed: 14": "Hudson Archambault",
+        "Unnamed: 15": "Hudson Archambault",
+        "Unnamed: 16": "George Morris",
+        "Unnamed: 17": "Carter Fong",
+        "Unnamed: 18": "Carter Fong",
+        "Unnamed: 19": "Sean Choi",
+        "Unnamed: 20": "Sean Choi",
+        "Unnamed: 21": "Brody Pendergast",
+        "Unnamed: 22": "Milan Avinashi"
+      }
+    ],
+    "malformed_examples": {
+      "VCB House 13 U - PeeWee Assessment - Performance Scores": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 2": [
+        "Speed Ranking"
+      ],
+      "Unnamed: 3": [
+        "Power Ranking"
+      ],
+      "Unnamed: 4": [
+        "Overall Athleticism Ranking"
+      ],
+      "Unnamed: 5": [
+        "Hitting Subjective"
+      ],
+      "Unnamed: 6": [
+        "Hitting Objective"
+      ],
+      "Unnamed: 7": [
+        "Overall Hitting Ranking"
+      ],
+      "Unnamed: 8": [
+        "Fielding Ranking"
+      ],
+      "Unnamed: 9": [
+        "Throwing Ranking"
+      ],
+      "Unnamed: 10": [
+        "Overall Ranking"
+      ],
+      "VCB House 13 U - PeeWee Assessment - Power Ranking by Skill": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 14": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 15": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 16": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 17": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 18": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 19": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 20": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 21": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 22": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ]
+    }
+  },
+  "Pitcher Ranking ": {
+    "row_count": 74,
+    "column_count": 4,
+    "column_names": [
+      "Unnamed: 0",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3"
+    ],
+    "missing_by_column": {
+      "Unnamed: 0": 0,
+      "Unnamed: 1": 0,
+      "Unnamed: 2": 0,
+      "Unnamed: 3": 0
+    },
+    "sample_rows": [
+      {
+        "Unnamed: 0": "Name",
+        "Unnamed: 1": "Subjective Ranking ",
+        "Unnamed: 2": "FB (Velo & Command) Ranking ",
+        "Unnamed: 3": "Overall Ranking "
+      },
+      {
+        "Unnamed: 0": "Arek Aubuchon",
+        "Unnamed: 1": "5",
+        "Unnamed: 2": "5",
+        "Unnamed: 3": "5"
+      },
+      {
+        "Unnamed: 0": "Brody Pendergast",
+        "Unnamed: 1": "5",
+        "Unnamed: 2": "5",
+        "Unnamed: 3": "5"
+      },
+      {
+        "Unnamed: 0": "Mylo McLaughlin",
+        "Unnamed: 1": "5",
+        "Unnamed: 2": "5",
+        "Unnamed: 3": "5"
+      },
+      {
+        "Unnamed: 0": "Sean Choi",
+        "Unnamed: 1": "5",
+        "Unnamed: 2": "5",
+        "Unnamed: 3": "5"
+      }
+    ],
+    "malformed_examples": {
+      "Unnamed: 0": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 1": [
+        "Subjective Ranking"
+      ],
+      "Unnamed: 2": [
+        "FB (Velo & Command) Ranking"
+      ],
+      "Unnamed: 3": [
+        "Overall Ranking"
+      ]
+    }
+  },
+  "Assessment Data": {
+    "row_count": 78,
+    "column_count": 19,
+    "column_names": [
+      "Unnamed: 0",
+      "Athleticism Evaluation ",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Hitting Objective Evaluation ",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Hitting Subjective Evaluation ",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "Unnamed: 13",
+      "Fielding and Throwing Evaluation ",
+      "Unnamed: 15",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18"
+    ],
+    "missing_by_column": {
+      "Unnamed: 0": 0,
+      "Athleticism Evaluation ": 0,
+      "Unnamed: 2": 0,
+      "Unnamed: 3": 0,
+      "Unnamed: 4": 0,
+      "Hitting Objective Evaluation ": 0,
+      "Unnamed: 6": 0,
+      "Unnamed: 7": 0,
+      "Unnamed: 8": 0,
+      "Hitting Subjective Evaluation ": 0,
+      "Unnamed: 10": 0,
+      "Unnamed: 11": 0,
+      "Unnamed: 12": 0,
+      "Unnamed: 13": 0,
+      "Fielding and Throwing Evaluation ": 0,
+      "Unnamed: 15": 0,
+      "Unnamed: 16": 0,
+      "Unnamed: 17": 0,
+      "Unnamed: 18": 0
+    },
+    "sample_rows": [
+      {
+        "Unnamed: 0": "Name",
+        "Athleticism Evaluation ": "Home to 1st ",
+        "Unnamed: 2": "Broad Jump",
+        "Unnamed: 3": "Lateral Jump ",
+        "Unnamed: 4": "Shotput",
+        "Hitting Objective Evaluation ": "Bat Speed ",
+        "Unnamed: 6": "Time 2 Contact ",
+        "Unnamed: 7": "Exit Velocity Avg.",
+        "Unnamed: 8": "Exit Velocity Max",
+        "Hitting Subjective Evaluation ": "Athletic Stance ",
+        "Unnamed: 10": "Balance Stride ",
+        "Unnamed: 11": "Barrel Level ",
+        "Unnamed: 12": "Launch Position ",
+        "Unnamed: 13": "Follow Through ",
+        "Fielding and Throwing Evaluation ": "Readiness",
+        "Unnamed: 15": "Footwork ",
+        "Unnamed: 16": "Glovework ",
+        "Unnamed: 17": "Athleticism ",
+        "Unnamed: 18": "Fundamental Throwing "
+      },
+      {
+        "Unnamed: 0": "Aaron Franken",
+        "Athleticism Evaluation ": "3.45",
+        "Unnamed: 2": "62",
+        "Unnamed: 3": "51",
+        "Unnamed: 4": "135",
+        "Hitting Objective Evaluation ": "47.2",
+        "Unnamed: 6": "0.21",
+        "Unnamed: 7": "42.4",
+        "Unnamed: 8": "47.8",
+        "Hitting Subjective Evaluation ": "3",
+        "Unnamed: 10": "3",
+        "Unnamed: 11": "2",
+        "Unnamed: 12": "3",
+        "Unnamed: 13": "2",
+        "Fielding and Throwing Evaluation ": "3",
+        "Unnamed: 15": "2",
+        "Unnamed: 16": "2",
+        "Unnamed: 17": "3",
+        "Unnamed: 18": "1"
+      },
+      {
+        "Unnamed: 0": "Andre Morin",
+        "Athleticism Evaluation ": "3.81",
+        "Unnamed: 2": "61",
+        "Unnamed: 3": "55",
+        "Unnamed: 4": "205",
+        "Hitting Objective Evaluation ": "44.3",
+        "Unnamed: 6": "0.2",
+        "Unnamed: 7": "55.1",
+        "Unnamed: 8": "58.2",
+        "Hitting Subjective Evaluation ": "2",
+        "Unnamed: 10": "2",
+        "Unnamed: 11": "2",
+        "Unnamed: 12": "2",
+        "Unnamed: 13": "1",
+        "Fielding and Throwing Evaluation ": "1",
+        "Unnamed: 15": "1",
+        "Unnamed: 16": "1",
+        "Unnamed: 17": "1",
+        "Unnamed: 18": "2"
+      },
+      {
+        "Unnamed: 0": "Andrew Macmillan",
+        "Athleticism Evaluation ": "3.82",
+        "Unnamed: 2": "56",
+        "Unnamed: 3": "52",
+        "Unnamed: 4": "187",
+        "Hitting Objective Evaluation ": "43.4",
+        "Unnamed: 6": "0.2",
+        "Unnamed: 7": "36.3",
+        "Unnamed: 8": "46.6",
+        "Hitting Subjective Evaluation ": "1",
+        "Unnamed: 10": "2",
+        "Unnamed: 11": "2",
+        "Unnamed: 12": "2",
+        "Unnamed: 13": "2",
+        "Fielding and Throwing Evaluation ": "1",
+        "Unnamed: 15": "1",
+        "Unnamed: 16": "2",
+        "Unnamed: 17": "1",
+        "Unnamed: 18": "1"
+      },
+      {
+        "Unnamed: 0": "Angus Rohee",
+        "Athleticism Evaluation ": "3.46",
+        "Unnamed: 2": "72",
+        "Unnamed: 3": "51",
+        "Unnamed: 4": "227",
+        "Hitting Objective Evaluation ": "42.8",
+        "Unnamed: 6": "0.21",
+        "Unnamed: 7": "45.8",
+        "Unnamed: 8": "56.6",
+        "Hitting Subjective Evaluation ": "1",
+        "Unnamed: 10": "2",
+        "Unnamed: 11": "2",
+        "Unnamed: 12": "1",
+        "Unnamed: 13": "1",
+        "Fielding and Throwing Evaluation ": "2",
+        "Unnamed: 15": "1",
+        "Unnamed: 16": "1",
+        "Unnamed: 17": "1",
+        "Unnamed: 18": "1"
+      }
+    ],
+    "malformed_examples": {
+      "Unnamed: 0": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Athleticism Evaluation ": [
+        "Home to 1st"
+      ],
+      "Unnamed: 2": [
+        "Broad Jump"
+      ],
+      "Unnamed: 3": [
+        "Lateral Jump"
+      ],
+      "Unnamed: 4": [
+        "Shotput"
+      ],
+      "Hitting Objective Evaluation ": [
+        "Bat Speed"
+      ],
+      "Unnamed: 6": [
+        "Time 2 Contact"
+      ],
+      "Unnamed: 7": [
+        "Exit Velocity Avg."
+      ],
+      "Unnamed: 8": [
+        "Exit Velocity Max"
+      ],
+      "Hitting Subjective Evaluation ": [
+        "Athletic Stance"
+      ],
+      "Unnamed: 10": [
+        "Balance Stride"
+      ],
+      "Unnamed: 11": [
+        "Barrel Level"
+      ],
+      "Unnamed: 12": [
+        "Launch Position"
+      ],
+      "Unnamed: 13": [
+        "Follow Through"
+      ],
+      "Fielding and Throwing Evaluation ": [
+        "Readiness"
+      ],
+      "Unnamed: 15": [
+        "Footwork"
+      ],
+      "Unnamed: 16": [
+        "Glovework"
+      ],
+      "Unnamed: 17": [
+        "Athleticism"
+      ],
+      "Unnamed: 18": [
+        "Fundamental Throwing"
+      ]
+    }
+  },
+  "Pitching Data ": {
+    "row_count": 74,
+    "column_count": 12,
+    "column_names": [
+      "Unnamed: 0",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11"
+    ],
+    "missing_by_column": {
+      "Unnamed: 0": 0,
+      "Unnamed: 1": 0,
+      "Unnamed: 2": 0,
+      "Unnamed: 3": 1,
+      "Unnamed: 4": 41,
+      "Unnamed: 5": 53,
+      "Unnamed: 6": 70,
+      "Unnamed: 7": 0,
+      "Unnamed: 8": 0,
+      "Unnamed: 9": 0,
+      "Unnamed: 10": 0,
+      "Unnamed: 11": 0
+    },
+    "sample_rows": [
+      {
+        "Unnamed: 0": "Name",
+        "Unnamed: 1": "Velocity Avg. ",
+        "Unnamed: 2": "Velocity Max ",
+        "Unnamed: 3": "Pitch 1",
+        "Unnamed: 4": "Pitch 2 ",
+        "Unnamed: 5": "Pitch 3 ",
+        "Unnamed: 6": "Pitch 4",
+        "Unnamed: 7": "Athletic Movement ",
+        "Unnamed: 8": "Body Control ",
+        "Unnamed: 9": "Direction ",
+        "Unnamed: 10": "Repeatability",
+        "Unnamed: 11": "Command2"
+      },
+      {
+        "Unnamed: 0": "Aaron Franken",
+        "Unnamed: 1": "39",
+        "Unnamed: 2": "44",
+        "Unnamed: 3": "FB",
+        "Unnamed: 4": "2 S - FB ",
+        "Unnamed: 5": "",
+        "Unnamed: 6": "",
+        "Unnamed: 7": "1",
+        "Unnamed: 8": "1",
+        "Unnamed: 9": "2",
+        "Unnamed: 10": "1",
+        "Unnamed: 11": "1"
+      },
+      {
+        "Unnamed: 0": "Andre Morin",
+        "Unnamed: 1": "50",
+        "Unnamed: 2": "51",
+        "Unnamed: 3": "FB",
+        "Unnamed: 4": "",
+        "Unnamed: 5": "",
+        "Unnamed: 6": "",
+        "Unnamed: 7": "2",
+        "Unnamed: 8": "1",
+        "Unnamed: 9": "2",
+        "Unnamed: 10": "2",
+        "Unnamed: 11": "2"
+      },
+      {
+        "Unnamed: 0": "Andrew Macmillan",
+        "Unnamed: 1": "43",
+        "Unnamed: 2": "45",
+        "Unnamed: 3": "FB",
+        "Unnamed: 4": "",
+        "Unnamed: 5": "",
+        "Unnamed: 6": "",
+        "Unnamed: 7": "2",
+        "Unnamed: 8": "2",
+        "Unnamed: 9": "1",
+        "Unnamed: 10": "2",
+        "Unnamed: 11": "3"
+      },
+      {
+        "Unnamed: 0": "Angus Rohee",
+        "Unnamed: 1": "50",
+        "Unnamed: 2": "51",
+        "Unnamed: 3": "FB",
+        "Unnamed: 4": "CB",
+        "Unnamed: 5": "",
+        "Unnamed: 6": "",
+        "Unnamed: 7": "2",
+        "Unnamed: 8": "1",
+        "Unnamed: 9": "2",
+        "Unnamed: 10": "1",
+        "Unnamed: 11": "1"
+      }
+    ],
+    "malformed_examples": {
+      "Unnamed: 0": [
+        "Aaron Franken",
+        "Andre Morin",
+        "Andrew Macmillan",
+        "Angus Rohee",
+        "Arek Aubuchon",
+        "Ari Edgar",
+        "Ari McLaughlin",
+        "Arlo Tourigny",
+        "Armann Freimanis",
+        "Arun Soni"
+      ],
+      "Unnamed: 1": [
+        "Velocity Avg."
+      ],
+      "Unnamed: 2": [
+        "Velocity Max"
+      ],
+      "Unnamed: 3": [
+        "FB",
+        "FB *",
+        "Pitch 1"
+      ],
+      "Unnamed: 4": [
+        "2 S - FB",
+        "2-FB",
+        "CB",
+        "CH",
+        "CU",
+        "Pitch 2",
+        "SL",
+        "SPL"
+      ],
+      "Unnamed: 5": [
+        "CB",
+        "CB *",
+        "CH",
+        "Pitch 3",
+        "SB",
+        "SL",
+        "SPL"
+      ],
+      "Unnamed: 6": [
+        "Knuckle ?",
+        "Pitch 4",
+        "SL"
+      ],
+      "Unnamed: 7": [
+        "Athletic Movement"
+      ],
+      "Unnamed: 8": [
+        "Body Control"
+      ],
+      "Unnamed: 9": [
+        "Direction"
+      ],
+      "Unnamed: 10": [
+        "Repeatability"
+      ],
+      "Unnamed: 11": [
+        "Command2"
+      ]
+    }
+  },
+  "cross_sheet_summary": {
+    "all_unique_players": 77,
+    "missing_pitching_players": [
+      "Bo Singerman",
+      "Elliott Cocke",
+      "Luca Di Nozzi",
+      "Shael Singerman"
+    ],
+    "players_by_sheet": {
+      "ranking": 77,
+      "assessment": 77,
+      "pitching": 73,
+      "pitcher_ranking": 73
+    }
+  }
+}
