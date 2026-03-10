@@ -1,16 +1,5 @@
 # VCB 13U House Draft Analysis
 
-This repo contains a corrected player analysis workflow for the `VCB House - 13u PeeWee Assessment.xlsx` workbook, a coach-facing PDF report, and a suggested balanced 7-team build.
-
-Primary deliverables:
-
-- [analysis_pipeline.py](/Users/eugenelin/dev/vcb13u/analysis_pipeline.py)
-- [analysis_notebook.ipynb](/Users/eugenelin/dev/vcb13u/analysis_notebook.ipynb)
-- [draft_board.csv](/Users/eugenelin/dev/vcb13u/draft_board.csv)
-- [draft_summary_report.md](/Users/eugenelin/dev/vcb13u/draft_summary_report.md)
-- [vcb_13u_draft_infographic_report.pdf](/Users/eugenelin/dev/vcb13u/vcb_13u_draft_infographic_report.pdf)
-- [suggested_balanced_7_teams.csv](/Users/eugenelin/dev/vcb13u/suggested_balanced_7_teams.csv)
-
 ## Workbook Structure
 
 - 4 sheets total
